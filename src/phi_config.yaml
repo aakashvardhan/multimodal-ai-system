@@ -1,6 +1,5 @@
 base_config:
   model_name: "microsoft/Phi-3-mini-4k-instruct"
-  dataset_name: "OpenAssistant/oasst1"
   num_train_samples: 10000
   num_val_samples: 1000
 
