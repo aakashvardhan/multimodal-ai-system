@@ -1,1 +1,3 @@
-data/llava_instruct_150k.json
+data/
+train2017.zip
+llava_instruct_150k.json
