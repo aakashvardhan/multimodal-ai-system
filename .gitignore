@@ -1,3 +1,4 @@
 data/
 train2017.zip
 llava_instruct_150k.json
+*.pyc
