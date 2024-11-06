@@ -6,3 +6,6 @@ datasets
 bitsandbytes
 einops
 wandb
+lightning
+deepspeed
+wandb

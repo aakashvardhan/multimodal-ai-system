@@ -7,9 +7,9 @@ wget -c https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K/resolve/m
 wget -c http://images.cocodataset.org/zips/train2017.zip
 
 # Create coco directory if it doesn't exist
-mkdir -p data/coco
+mkdir -p coco
 
 # Extract COCO dataset
-unzip -q train2017.zip -d data/coco/
+unzip -q train2017.zip -d coco/
 
 echo "Download and extraction complete."

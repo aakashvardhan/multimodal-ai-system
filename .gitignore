@@ -4,3 +4,5 @@ llava_instruct_150k.json
 *.pyc
 *.npzembeddings/image_embeddings.npz
 embeddings/image_embeddings.npz
+wandb
+*.pt
